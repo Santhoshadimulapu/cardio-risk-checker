@@ -44,7 +44,6 @@ heart-risk-detector/
 ## ⚙️ Installation & Setup  
 
 ### 1️⃣ Clone the repository  
-```sh
 git clone https://github.com/<your-username>/heart-risk-detector.git
 cd heart-risk-detector
 
@@ -74,3 +73,4 @@ Get an instant prediction: ✅ Low Risk / ⚠️ High Risk.
 UCI Heart Disease Dataset
 Scikit-learn & TensorFlow documentation
 React + Vite community
+---
